@@ -1,0 +1,6 @@
+id;cnpj;cenario
+1;123456000149;Exportação perdeu os dois zeros à esquerda
+2;12ABC34501DE36;Dígito verificador alterado
+3;12ABC34501DEA5;Letra no lugar de dígito verificador
+4;1.23456E+11;Valor convertido em notação científica
+5;;CNPJ ausente

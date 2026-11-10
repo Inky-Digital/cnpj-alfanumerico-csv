@@ -1,0 +1,4 @@
+id;cnpj;cenario
+1;00123456000149;CNPJ numérico com zero à esquerda
+2;12ABC34501DE35;Exemplo do manual da Receita
+3;12.ABC.345/01DE-35;Mesmo CNPJ com máscara
